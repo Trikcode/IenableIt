@@ -24,7 +24,7 @@
 ```bash
 Method: POST
 Type: RAW
-URL: http://localhost:5000/sendmessage
+URL: https://ienableit.herokuapp.com/sendmessage
 ```
 
 
